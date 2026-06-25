@@ -212,7 +212,7 @@ Gunakan cara ini jika kompetisi sudah selesai dan kamu benar-benar ingin **melen
 1. **Wajib:** Lakukan **Skenario 1** terlebih dahulu (Close Folder) di VS Code. Jika VS Code masih membuka proyek tersebut, file akan terkunci dan tidak bisa dihapus.
 2. Buka **File Explorer** Windows kamu (`Windows + E`).
 3. Berdasarkan data dari terminal kamu sebelumnya, proyek kamu disimpan di folder **`D:\`**. Jadi, silakan buka **Drive D:** kamu.
-4. Cari folder bernama **`ruang bunda`**.
+4. Cari folder bernama contoh: **`ruang bunda`**.
 5. Klik kanan pada folder tersebut, lalu pilih ikon **Delete** (tempat sampah).
-6. *Tips bersih total:* Jika ingin folder langsung terhapus permanen tanpa memenuhi *Recycle Bin* laptop, klik folder `ruang bunda` tersebut lalu tekan tombol **`Shift + Delete`** secara bersamaan di *keyboard*.
+6. *Tips bersih total:* Jika ingin folder langsung terhapus permanen tanpa memenuhi *Recycle Bin* laptop, klik folder contoh:`ruang bunda` tersebut lalu tekan tombol **`Shift + Delete`** secara bersamaan di *keyboard*.
 
