@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Bunda",
+  "description": "Maternal health information system with secure role-based access control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
